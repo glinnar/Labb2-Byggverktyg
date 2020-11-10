@@ -16,7 +16,7 @@ public class CalculatorTest {
 
     }
 
-    @RepeatedTest(10)
+    @RepeatedTest(15)
     public void testAdd() {
         Calculator cal = new Calculator();
         assertEquals(20, cal.Add(10, 10));
