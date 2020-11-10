@@ -14,7 +14,7 @@
     <property name="os.name" value="Linux"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/mnt/d/Skolan/Byggverktyg/Labb2/target/surefire/surefirebooter4263290544640753320.jar /mnt/d/Skolan/Byggverktyg/Labb2/target/surefire 2020-11-10T20-46-26_008-jvmRun1 surefire3341293341242254312tmp surefire_012478621642742123713tmp"/>
+    <property name="sun.java.command" value="/mnt/d/Skolan/Byggverktyg/Labb2/target/surefire/surefirebooter6902646112648598301.jar /mnt/d/Skolan/Byggverktyg/Labb2/target/surefire 2020-11-10T21-04-35_522-jvmRun1 surefire12947340124196412418tmp surefire_015497619432912948012tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/mnt/d/Skolan/Byggverktyg/Labb2/target/test-classes:/mnt/d/Skolan/Byggverktyg/Labb2/target/classes:/home/gurra/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.jar:/home/gurra/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/gurra/.m2/repository/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar:/home/gurra/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/gurra/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar:/home/gurra/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.jar:/home/gurra/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.0/junit-jupiter-params-5.4.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/mnt/d/Skolan/Byggverktyg/Labb2/target/surefire/surefirebooter4263290544640753320.jar"/>
+    <property name="surefire.real.class.path" value="/mnt/d/Skolan/Byggverktyg/Labb2/target/surefire/surefirebooter6902646112648598301.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.9+11-Ubuntu-0ubuntu1.20.04"/>
     <property name="user.name" value="gurra"/>
@@ -55,7 +55,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testLowerCase" classname="se.Iths.TextProcessorTest" time="0.003"/>
+  <testcase name="testLowerCase" classname="se.Iths.TextProcessorTest" time="0.002"/>
   <testcase name="testReverse" classname="se.Iths.TextProcessorTest" time="0"/>
-  <testcase name="testUpperCase" classname="se.Iths.TextProcessorTest" time="0"/>
+  <testcase name="testUpperCase" classname="se.Iths.TextProcessorTest" time="0.001"/>
 </testsuite>
