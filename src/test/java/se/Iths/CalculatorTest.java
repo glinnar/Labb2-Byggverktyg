@@ -38,15 +38,20 @@ public class CalculatorTest {
         System.out.println("Sum1 = : " + sum1 + " Sum2 = : " + sum2);
         assertTrue(sum1 < sum2);
 
-
     }
 
     @Disabled
+    public void testMultiplication2() {
+        Calculator cal = new Calculator();
+        assertEquals(10, cal.Multiplication(2, 5));
+    }
+
+
+    @Test
     public void testDivision() {
 
         Calculator cal = new Calculator();
         assertEquals(3, cal.Division(27, 9));
-
 
     }
 
